@@ -6,21 +6,21 @@ Discover the best Black Friday and Cyber Monday 2024 software and SaaS deals! Fr
 
 ## 🛍️ Contents
 
-- 💻 [Apps & Software](#💻-apps) — Must-have productivity apps and tools
-- ⚒️ [Developer Tools](#⚒️-developer-tools) — IDEs, APIs, and dev toolkits at unbeatable prices
-- 📚 [Books & eBooks](#📚-books) 
-  - 📗 [Programming Books](#📗-programming-books) — Learn new languages and frameworks
-- 👩‍🏫 [Courses & Learning Platforms](#👩‍🏫-courses) — Upskill with discounted courses
-- 📩 [Newsletters & Communities](#📩-newsletters) — Join the best tech & SaaS communities
-- ♻️ [SaaS Software](#♻️-saas-software) — Subscriptions to streamline your business
-- 🎨 [Themes & Design Resources](#🎨-themes) — Premium design assets and themes
-- 🔌 [Plugins & Extensions](#🔌-plugins) — Enhance your apps and workflows
-- 🧬 [Standalone Scripts & Code Snippets](#🧬-standalone-scripts) — Save time with ready-made scripts
-- 🤖 [AI Tools & Automation](#🤖-ai-tools) — AI-powered tools for next-gen productivity
-- 🛒 [Marketplaces](#🛒-marketplaces) — Find deals across popular software marketplaces
-- 🌈 [Marketing & SEO Tools](#🌈-marketing-tools) — Turbocharge your marketing efforts
-- 💾 [Other Software](#💾-other-software) — Hidden gems and niche software deals
-- 🔖 [Places to List Your Black Friday Deals](#🔖-places-to-list-your-black-friday-deals) — Share your own offers!
+- 💻 [Apps & Software](#apps) — Must-have productivity apps and tools
+- ⚒️ [Developer Tools](#developer-tools) — IDEs, APIs, and dev toolkits at unbeatable prices
+- 📚 [Books & eBooks](#books) 
+  - 📗 [Programming Books](#programming-books) — Learn new languages and frameworks
+- 👩‍🏫 [Courses & Learning Platforms](#courses) — Upskill with discounted courses
+- 📩 [Newsletters & Communities](#newsletters) — Join the best tech & SaaS communities
+- ♻️ [SaaS Software](#saas-software) — Subscriptions to streamline your business
+- 🎨 [Themes & Design Resources](#themes) — Premium design assets and themes
+- 🔌 [Plugins & Extensions](#plugins) — Enhance your apps and workflows
+- 🧬 [Standalone Scripts & Code Snippets](#standalone-scripts) — Save time with ready-made scripts
+- 🤖 [AI Tools & Automation](#ai-tools) — AI-powered tools for next-gen productivity
+- 🛒 [Marketplaces](#marketplaces) — Find deals across popular software marketplaces
+- 🌈 [Marketing & SEO Tools](#marketing-tools) — Turbocharge your marketing efforts
+- 💾 [Other Software](#other-software) — Hidden gems and niche software deals
+- 🔖 [Places to List Your Black Friday Deals](#places-to-list-your-black-friday-deals) — Share your own offers!
 
 ---
 
@@ -57,7 +57,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 ## Meet Our Sponsors
 
 ### Writecream
-<a href="https://writecream.com"><img src="https://www.writecream.com/logo.png](https://www.writecream.com/wp-content/uploads/2021/05/va-logo.svg" alt="Writecream Logo"></a>  
+<a href="https://writecream.com"><img src="https://www.writecream.com/wp-content/uploads/2021/05/va-logo.svg" alt="Writecream Logo"></a>  
 🖌️ AI Text & Image Generator  
 AI text and image generator tool with advanced chat features.  
 🔵 Create compelling content effortlessly  
@@ -65,7 +65,7 @@ AI text and image generator tool with advanced chat features.
 🔵 Enhance your writing and visuals with AI
 
 ### AI 4Chat
-<a href="https://www.ai4chat.co"><img src="https://www.ai4chat.com/logo.png](https://www.ai4chat.co/images/logo/ai2.png" alt="AI 4Chat Logo"></a>  
+<a href="https://www.ai4chat.co"><img src="https://www.ai4chat.co/images/logo/ai2.png" alt="AI 4Chat Logo"></a>  
 🤖 Advanced AI Tools  
 Advanced AI tools providing automatic workflows, content, image generation, and voice chat.  
 🟢 Streamline your processes with automation  
@@ -73,7 +73,7 @@ Advanced AI tools providing automatic workflows, content, image generation, and 
 🟢 Enhance customer interactions with voice capabilities
 
 ### Airbrush
-<a href="https://www.airbrush.ai"><img src="https://www.airbrush.ai/logo.png](https://www.airbrush.ai/wp-content/uploads/2023/02/logo-600x173.png" alt="Airbrush Logo"></a>  
+<a href="https://www.airbrush.ai"><img src="https://www.airbrush.ai/wp-content/uploads/2023/02/logo-600x173.png" alt="Airbrush Logo"></a>  
 🎨 AI Image Generation & Optimization  
 Revolutionary Technology: Generate AI-powered images in just 1 click.  
 🔵 Create original stock photos, NFTs, art, and more in seconds  
@@ -82,105 +82,105 @@ Revolutionary Technology: Generate AI-powered images in just 1 click.
 
 ---
 
-## 💻 Apps
+## <a name="apps"></a> 💻 Apps
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## ⚒️ Developer Tools
+## <a name="developer-tools"></a> ⚒️ Developer Tools
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 📚 Books
+## <a name="books"></a> 📚 Books
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 📗 Programming Books
+## <a name="programming-books"></a> 📗 Programming Books
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 👩‍🏫 Courses
+## <a name="courses"></a> 👩‍🏫 Courses
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 📩 Newsletter & Communities
+## <a name="newsletters"></a> 📩 Newsletter & Communities
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## ♻️ SaaS Software
+## <a name="saas-software"></a> ♻️ SaaS Software
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 🎨 Themes & Design Resources
+## <a name="themes"></a> 🎨 Themes & Design Resources
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 🔌 Plugins
+## <a name="plugins"></a> 🔌 Plugins
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 🧬 Standalone Scripts
+## <a name="standalone-scripts"></a> 🧬 Standalone Scripts
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 🤖 AI Tools
+## <a name="ai-tools"></a> 🤖 AI Tools
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 🛒 Marketplaces
+## <a name="marketplaces"></a> 🛒 Marketplaces
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 🌈 Marketing Tools
+## <a name="marketing-tools"></a> 🌈 Marketing Tools
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 💾 Other Software
+## <a name="other-software"></a> 💾 Other Software
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
 | 💰  |  |  |
 | 🤑  |  |  |
 
-## 🔖 Other Places to List Your BF Deals
+## <a name="places-to-list-your-black-friday-deals"></a> 🔖 Other Places to List Your BF Deals
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |

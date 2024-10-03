@@ -183,7 +183,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ## [Go to Top](#💰-ultimate-black-friday--cyber-monday-2024-deals-)
 
-## <a name="ai-tools"></a> 🤖 AI Tools & Automation
+## <a name="ai-tools"></a> 🤖 AI Tools
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |  |  |
@@ -220,14 +220,14 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 ## [Go to Top](#💰-ultimate-black-friday--cyber-monday-2024-deals-)
 
 ## <a name="places-to-list-your-black-friday-deals"></a> 🔖 Places to List Your Black Friday Deals
-| Name | Description | Discount Code & Terms |
-|------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
-
-## [Go to Top](#💰-ultimate-black-friday--cyber-monday-2024-deals-)
+- [Indie Hackers](https://www.indiehackers.com)
+- [Product Hunt](https://www.producthunt.com)
+- [SaaS Club](https://saasclub.co)
+- [Twitter](https://twitter.com)  
+- [Facebook Groups](https://www.facebook.com/groups)
 
 ---
+
+> This repository is open-source. Please feel free to contribute by adding your deals!
 
 **Disclaimer**: Please note that the deals listed are subject to change. Always check the official website for the latest pricing and discount codes.

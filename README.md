@@ -6,23 +6,24 @@ Discover the best Black Friday and Cyber Monday 2024 software and SaaS deals! Fr
 
 ## 🛍️ Contents
 
-- 💻 [Apps & Software](#-apps) — Must-have productivity apps and tools
-- ⚒️ [Developer Tools](#-developer-tools) — IDEs, APIs, and dev toolkits at unbeatable prices
-- 📚 [Books & eBooks](#-books) 
-  - 📗 [Programming Books](#-programming-books) — Learn new languages and frameworks
-- 👩‍🏫 [Courses & Learning Platforms](#-courses) — Upskill with discounted courses
-- 📩 [Newsletters & Communities](#-newsletters) — Join the best tech & SaaS communities
-- ♻️ [SaaS Software](#-saas-software) — Subscriptions to streamline your business
-- 🎨 [Themes & Design Resources](#-themes) — Premium design assets and themes
-- 🔌 [Plugins & Extensions](#-plugins) — Enhance your apps and workflows
-- 🧬 [Standalone Scripts & Code Snippets](#-standalone-scripts) — Save time with ready-made scripts
-- 🤖 [AI Tools & Automation](#-ai-tools) — AI-powered tools for next-gen productivity
-- 🛒 [Marketplaces](#-marketplaces) — Find deals across popular software marketplaces
-- 🌈 [Marketing & SEO Tools](#-marketing-tools) — Turbocharge your marketing efforts
-- 💾 [Other Software](#-other-software) — Hidden gems and niche software deals
-- 🔖 [Places to List Your Black Friday Deals](#-places-to-list-your-black-friday-deals) — Share your own offers!
+- 💻 [Apps & Software](#💻-apps) — Must-have productivity apps and tools
+- ⚒️ [Developer Tools](#⚒️-developer-tools) — IDEs, APIs, and dev toolkits at unbeatable prices
+- 📚 [Books & eBooks](#📚-books) 
+  - 📗 [Programming Books](#📗-programming-books) — Learn new languages and frameworks
+- 👩‍🏫 [Courses & Learning Platforms](#👩‍🏫-courses) — Upskill with discounted courses
+- 📩 [Newsletters & Communities](#📩-newsletters) — Join the best tech & SaaS communities
+- ♻️ [SaaS Software](#♻️-saas-software) — Subscriptions to streamline your business
+- 🎨 [Themes & Design Resources](#🎨-themes) — Premium design assets and themes
+- 🔌 [Plugins & Extensions](#🔌-plugins) — Enhance your apps and workflows
+- 🧬 [Standalone Scripts & Code Snippets](#🧬-standalone-scripts) — Save time with ready-made scripts
+- 🤖 [AI Tools & Automation](#🤖-ai-tools) — AI-powered tools for next-gen productivity
+- 🛒 [Marketplaces](#🛒-marketplaces) — Find deals across popular software marketplaces
+- 🌈 [Marketing & SEO Tools](#🌈-marketing-tools) — Turbocharge your marketing efforts
+- 💾 [Other Software](#💾-other-software) — Hidden gems and niche software deals
+- 🔖 [Places to List Your Black Friday Deals](#🔖-places-to-list-your-black-friday-deals) — Share your own offers!
 
 ---
+
 ## 🛍️ Contribute to the Black Friday & Cyber Monday Deals 2024! ✍️
 We invite you to contribute to our curated list of deals for Black Friday and Cyber Monday 2024! Your contributions help everyone find the best offers and maximize their savings.
 
@@ -56,7 +57,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 ## Meet Our Sponsors
 
 ### Writecream
-<a href="https://writecream.com"><img src="https://www.writecream.com/logo.png" alt="Writecream Logo"></a>  
+<a href="https://writecream.com"><img src="https://www.writecream.com/logo.png](https://www.writecream.com/wp-content/uploads/2021/05/va-logo.svg" alt="Writecream Logo"></a>  
 🖌️ AI Text & Image Generator  
 AI text and image generator tool with advanced chat features.  
 🔵 Create compelling content effortlessly  
@@ -64,7 +65,7 @@ AI text and image generator tool with advanced chat features.
 🔵 Enhance your writing and visuals with AI
 
 ### AI 4Chat
-<a href="https://www.ai4chat.co"><img src="https://www.ai4chat.com/logo.png" alt="AI 4Chat Logo"></a>  
+<a href="https://www.ai4chat.co"><img src="https://www.ai4chat.com/logo.png](https://www.ai4chat.co/images/logo/ai2.png" alt="AI 4Chat Logo"></a>  
 🤖 Advanced AI Tools  
 Advanced AI tools providing automatic workflows, content, image generation, and voice chat.  
 🟢 Streamline your processes with automation  
@@ -72,7 +73,7 @@ Advanced AI tools providing automatic workflows, content, image generation, and 
 🟢 Enhance customer interactions with voice capabilities
 
 ### Airbrush
-<a href="https://www.airbrush.ai"><img src="https://www.airbrush.ai/logo.png" alt="Airbrush Logo"></a>  
+<a href="https://www.airbrush.ai"><img src="https://www.airbrush.ai/logo.png](https://www.airbrush.ai/wp-content/uploads/2023/02/logo-600x173.png" alt="Airbrush Logo"></a>  
 🎨 AI Image Generation & Optimization  
 Revolutionary Technology: Generate AI-powered images in just 1 click.  
 🔵 Create original stock photos, NFTs, art, and more in seconds  
@@ -187,7 +188,5 @@ Revolutionary Technology: Generate AI-powered images in just 1 click.
 | 🤑  |  |  |
 
 ---
-
-
 
 ## [Go to Top](#💰-ultimate-black-friday--cyber-monday-2024-deals-)

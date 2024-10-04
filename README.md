@@ -163,7 +163,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 
 ## <a name="places-to-list-your-black-friday-deals"></a> 🔖 Places to List Your Black Friday Deals
-| Name | Description | Discount Code & Terms |
+| List | Platforms | 
 |------|-------------|-----------------------|
 |  1 |[indiegoodies](https://indiegoodies.com/blackfriday)  |  
 | 2 |[saasfridaydeals](https://saasfridaydeals.com/)  |  

@@ -54,44 +54,7 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 
 ---
 
-## Meet Our Sponsors
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://writecream.com"><img src="https://www.writecream.com/wp-content/uploads/2021/05/va-logo.svg" alt="Writecream Logo" width="150"></a>
-      <p><strong>🖌️ AI Text & Image Generator</strong></p>
-      <p>AI text and image generator tool with advanced chat features.</p>
-      <ul>
-        <li>🔵 Create compelling content effortlessly</li>
-        <li>🔵 Generate stunning images in seconds</li>
-        <li>🔵 Enhance your writing and visuals with AI</li>
-      </ul>
-    </td>
-    <td align="center">
-      <a href="https://www.ai4chat.co"><img src="https://www.ai4chat.co/images/logo/ai2.png" alt="AI 4Chat Logo" width="150"></a>
-      <p><strong>🤖 Advanced AI Tools</strong></p>
-      <p>Advanced AI tools providing automatic workflows, content, image generation, and voice chat.</p>
-      <ul>
-        <li>🟢 Streamline your processes with automation</li>
-        <li>🟢 Generate engaging content and visuals</li>
-        <li>🟢 Enhance customer interactions with voice capabilities</li>
-      </ul>
-    </td>
-    <td align="center">
-      <a href="https://www.airbrush.ai"><img src="https://www.airbrush.ai/wp-content/uploads/2023/02/logo-600x173.png" alt="Airbrush Logo" width="150"></a>
-      <p><strong>🎨 AI Image Generation & Optimization</strong></p>
-      <p>Revolutionary Technology: Generate AI-powered images in just 1 click.</p>
-      <ul>
-        <li>🔵 Create original stock photos, NFTs, art, and more in seconds</li>
-        <li>🔵 Optimize images effortlessly for any platform</li>
-        <li>🔵 Explore endless creative possibilities with AI</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
 
 ## <a name="apps"></a> 💻 Apps
 | Name | Description | Discount Code & Terms |

@@ -60,8 +60,8 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |	[OK JSON](https://okjson.app/) | A scriptable JSON formatter for macOS. |50% OFF, both on the Mac App Store and the website with code BF2023 from Nov 23 – Nov 29 |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 💰  | [OK JSON]() |  |
+| 🤑  | [OK JSON]() |  |
 
 
 ## <a name="developer-tools"></a> ⚒️ Developer Tools

@@ -60,116 +60,116 @@ Feel free to add your app's deal below in the relevant section. Please follow th
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
 | 🤑  |	[OK JSON](https://okjson.app/) | A scriptable JSON formatter for macOS. |50% OFF, both on the Mac App Store and the website with code BF2023 from Nov 23 – Nov 29 |
-| 💰  | [OK JSON]() |  |
-| 🤑  | [OK JSON]() |  |
+| 💰  | [RunJS](https://runjs.app/) |A playground for JavaScript and TypeScript  |30% OFF (automatically applied) until 30th November|
+| 🤑  | [DevUtils](https://devutils.com/) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura.	 |50% OFF with code BLACKFRIDAY_2023 |
 
 
 ## <a name="developer-tools"></a> ⚒️ Developer Tools
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 
 ## <a name="books"></a> 📚 Books
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 
 ## <a name="programming-books"></a> 📗 Programming Books
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 
 ## <a name="courses"></a> 👩‍🏫 Courses
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 
 ## <a name="newsletters"></a> 📩 Newsletter & Communities
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 
 ## <a name="saas-software"></a> ♻️ SaaS Software
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 
 ## <a name="themes"></a> 🎨 Themes & Design Resources
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 
 ## <a name="plugins"></a> 🔌 Plugins
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 ## <a name="standalone-scripts"></a> 🧬 Standalone Scripts
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 ## <a name="ai-tools"></a> 🤖 AI Tools & Automation
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 ## <a name="marketplaces"></a> 🛒 Marketplaces
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 ## <a name="marketing-tools"></a> 🌈 Marketing & SEO Tools
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 
 ## <a name="other-software"></a> 💾 Other Software
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 
 ## <a name="places-to-list-your-black-friday-deals"></a> 🔖 Places to List Your Black Friday Deals
 | Name | Description | Discount Code & Terms |
 |------|-------------|-----------------------|
-| 🤑  |  |  |
-| 💰  |  |  |
-| 🤑  |  |  |
+| 🤑  |[OK JSON]()  |  |
+| 💰  |[OK JSON]()  |  |
+| 🤑  |[OK JSON]()  |  |
 
 
 ---
